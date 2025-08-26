@@ -1,3 +1,3 @@
-# CargaUsuario
+# Python practice with Salesforce
 
-forma simple, cumple restricciones y excepciones.
+Ejercicios con Google COlab
