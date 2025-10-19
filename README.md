@@ -1,3 +1,3 @@
-# Python practice with Salesforce
+# Entregas Data Analytics 2C-2025
 
-Ejercicios con Google COlab
+Ejercicios de pre-entrega 
